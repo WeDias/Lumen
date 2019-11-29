@@ -1,4 +1,4 @@
-# Lumen
+# 💡 Lumen
 ### Resumo
   O objetivo do projeto Lumen é oferecer aos nossos clientes uma solução de internet das
   coisas que integre um aplicativo para Smartphone e hardware acessível, que permita
