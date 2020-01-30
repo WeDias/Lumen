@@ -16,8 +16,8 @@
 ![tela](https://github.com/WeDias/Lumen/blob/master/Lumen/Outros/tela.png)  
 
 #### Desenvolvedores
-###### 🔨 Hardware: *Wesley Dias, Denis Ferreira, Israel Augusto*
-###### 📱 Software: *Wesley Dias, Denis Ferreira, Israel Augusto*
-###### 🏡 Maquete: *Wesley Dias, Leonardo Andrade*
-###### 🎨 Design: *Wesley Dias*
+###### 🔨 Hardware: *[Wesley Dias](https://github.com/WeDias), [Denis Ferreira](https://github.com/Denis-Lima), Israel Augusto*
+###### 📱 Software: *[Wesley Dias](https://github.com/WeDias), [Denis Ferreira](https://github.com/Denis-Lima), Israel Augusto*
+###### 🏡 Maquete: *[Wesley Dias](https://github.com/WeDias), Leonardo Andrade*
+###### 🎨 Design: *[Wesley Dias](https://github.com/WeDias)*
 ###### 📝 Documentação: *Israel Augusto*
