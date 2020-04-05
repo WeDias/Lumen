@@ -15,6 +15,7 @@
 ### Tela do aplicativo
 ![tela](https://github.com/WeDias/Lumen/blob/master/Lumen/Outros/tela.png)  
 
+---
 #### Desenvolvedores
 ###### 🔨 Hardware: *[Wesley Dias](https://github.com/WeDias), [Denis Ferreira](https://github.com/Denis-Lima), [Israel Augusto](https://github.com/IsraelAugusto0110)*
 ###### 📱 Software: *[Wesley Dias](https://github.com/WeDias), [Denis Ferreira](https://github.com/Denis-Lima), [Israel Augusto](https://github.com/IsraelAugusto0110)*
